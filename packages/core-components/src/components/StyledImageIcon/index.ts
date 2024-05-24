@@ -1,0 +1,1 @@
+export { StyledImageIcon } from "./StyledImageIcon";

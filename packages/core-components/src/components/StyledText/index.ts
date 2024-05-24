@@ -1,0 +1,1 @@
+export { StyledText } from "./StyledText";

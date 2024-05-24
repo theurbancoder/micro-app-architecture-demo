@@ -1,0 +1,1 @@
+export { StyledPageLayout } from "./StyledPageLayout";

@@ -1,0 +1,1 @@
+export { SupportScreen } from "./screens";
